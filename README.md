@@ -1,5 +1,5 @@
 #Displacement_map
 
-1.GrayScale dealer
-2.per pixel distance funtion algorithm
-3.find surface
+1.GrayScale dealer  
+2.per pixel distance funtion algorithm  
+3.find surface  
