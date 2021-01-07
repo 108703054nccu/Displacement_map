@@ -51,7 +51,11 @@ void find_surface(int Height,int Width,int invBumpDepth){
 		p += distance*offset;
 	}
 	
-	vec3 tanNormal = 2*
-	float diffuse = dot ()
+	vec3 tanNormal ;
+	tanLightVec = unit_vector(tanLightVec);
+	float diffuse = dot (tanNormal,tanLightVec);
+
+	//RGB getColor = diffuse *;
+	//a = 1;
 	
 }
