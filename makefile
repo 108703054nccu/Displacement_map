@@ -10,4 +10,4 @@ find_surface.o:find_surface.cpp find_surface.h
 vec3.o:vec3.cpp vec3.h
 	g++ -c vec3.cpp
 clean:
-	rm -f Vector.o Gray_pic_generator.o distance_funtion.o find_surface.o displacement_pic_generator.out 
+	rm -f vec3.o Gray_pic_generator.o distance_funtion.o find_surface.o displacement_pic_generator.out 
